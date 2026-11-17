@@ -1,10 +1,22 @@
 {
   "dealership": "Discovery Honda",
-  "generated_at": "2026-10-26T05:39:48",
-  "vehicle_count": 138,
+  "generated_at": "2026-11-17T01:59:41",
+  "vehicle_count": 145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used SUVs & Cars for Saleat Discovery Honda in Duncan",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/e78e49ab926a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used SUVs & Cars for Saleat Discovery Honda in Duncan",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/c7f39c79d7de.html",
+      "condition": "used"
+    },
     {
       "name": "2008 Honda CR-V EX",
       "vin": "5J6RE48568L801875",
@@ -24,12 +36,30 @@
       "condition": "used"
     },
     {
+      "name": "2010 Honda Odyssey",
+      "vin": "5FNRL3H60AB506410",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/354f95916db1.html",
+      "year": 2010,
+      "make": "Honda",
+      "model": "Odyssey",
+      "condition": "used"
+    },
+    {
       "name": "2012 Audi Q5 3.2L Premium",
       "vin": "WA1LKCFP2CA049562",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/d12ca7ef25bd.html",
       "year": 2012,
       "make": "Audi",
       "model": "Q5",
+      "condition": "used"
+    },
+    {
+      "name": "2012 Toyota 4Runner SR5",
+      "vin": "JTEBU5JR3C5080095",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/87e0d95abc1d.html",
+      "year": 2012,
+      "make": "Toyota",
+      "model": "4Runner",
       "condition": "used"
     },
     {
@@ -75,6 +105,15 @@
       "year": 2016,
       "make": "Honda",
       "model": "CR-V",
+      "condition": "used"
+    },
+    {
+      "name": "2016 Honda HR-V EX-L",
+      "vin": "3CZRU6H73GM100739",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/6e8ca93c9d27.html",
+      "year": 2016,
+      "make": "Honda",
+      "model": "HR-V",
       "condition": "used"
     },
     {
@@ -195,6 +234,15 @@
       "condition": "used"
     },
     {
+      "name": "2021 Toyota 4Runner",
+      "vin": "JTERU5JR2M5938253",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/c5b5dbb95df2.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used"
+    },
+    {
       "name": "2022 Honda Civic Hatchback LX",
       "vin": "19XFL2G52NE400414",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/a6074d2293df.html",
@@ -219,15 +267,6 @@
       "year": 2022,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
-    },
-    {
-      "name": "2023 GMC Sierra 1500 AT4",
-      "vin": "1GTUUEE86PZ235641",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/c7f39c79d7de.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Sierra 1500",
       "condition": "used"
     },
     {
@@ -312,21 +351,30 @@
       "condition": "used"
     },
     {
-      "name": "2025 Ford Mustang",
-      "vin": "1FA6P8CFXS5403970",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/e78e49ab926a.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used"
-    },
-    {
       "name": "2025 Honda Accord Sedan SE",
       "vin": "1HGCY1F40SA800866",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/92d9683abf19.html",
       "year": 2025,
       "make": "Honda",
       "model": "Accord",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Honda CR-V LX",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/b8b707a4e0f9.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Honda Passport Sport",
+      "vin": "5FNYF8H23SB500986",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/bbac29cb26c5.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Passport",
       "condition": "used"
     },
     {
@@ -381,6 +429,15 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
+      "condition": "used"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Elevation",
+      "vin": "3GTUUCED1TG101776",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/78630c9bfd15.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
       "condition": "used"
     },
     {
