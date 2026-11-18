@@ -1,7 +1,7 @@
 {
   "dealership": "Discovery Honda",
-  "generated_at": "2026-11-17T01:59:41",
-  "vehicle_count": 145,
+  "generated_at": "2026-11-18T02:04:34",
+  "vehicle_count": 149,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -16,6 +16,54 @@
       "vin": "2HKRS4H21SH111452",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/c7f39c79d7de.html",
       "condition": "used"
+    },
+    {
+      "name": "Used SUVs & Cars for Saleat Discovery Honda in Duncan",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/3bac40df917a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used SUVs & Cars for Saleat Discovery Honda in Duncan",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/19930d7772f0.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used SUVs & Cars for Saleat Discovery Honda in Duncan",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/5e109d52fa46.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used SUVs & Cars for Saleat Discovery Honda in Duncan",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/9d3f0da0067d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used SUVs & Cars for Saleat Discovery Honda in Duncan",
+      "vin": "2HKRS4H21SH111452",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/cc6261124b0b.html",
+      "condition": "used"
+    },
+    {
+      "name": "New Honda for Saleat Discovery Honda in Duncan",
+      "vin": "5FNRL6H8XTB502158",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/24c172993e2c.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Honda for Saleat Discovery Honda in Duncan",
+      "vin": "5FNYG1H70TB504978",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/87e9cc06c1b8.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Honda for Saleat Discovery Honda in Duncan",
+      "vin": "5FNRL6H8XTB502158",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/72a9c2161c13.html",
+      "condition": "new"
     },
     {
       "name": "2008 Honda CR-V EX",
@@ -153,15 +201,6 @@
       "condition": "used"
     },
     {
-      "name": "2018 Subaru Outback Premier",
-      "vin": "4S4BSDTC6J3293463",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/cc6261124b0b.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used"
-    },
-    {
       "name": "2018 Volkswagen Golf R",
       "vin": "WVWVF7AU2JW251485",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/e1535afbd104.html",
@@ -177,15 +216,6 @@
       "year": 2019,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Nissan Murano",
-      "vin": "5N1AZ2MS4KN105353",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/9d3f0da0067d.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Murano",
       "condition": "used"
     },
     {
@@ -270,27 +300,9 @@
       "condition": "used"
     },
     {
-      "name": "2023 Honda Accord Hybrid Touring",
-      "vin": "1HGCY2F88PA800484",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/3bac40df917a.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Accord Hybrid",
-      "condition": "used"
-    },
-    {
       "name": "2023 Honda Civic Sedan LX",
       "vin": "2HGFE2F22PH107297",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/7e47f9ff2d49.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used"
-    },
-    {
-      "name": "2023 Honda Civic Sedan LX",
-      "vin": "2HGFE2F20PH107301",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/19930d7772f0.html",
       "year": 2023,
       "make": "Honda",
       "model": "Civic",
@@ -321,15 +333,6 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Honda HR-V LX-B",
-      "vin": "3CZRZ2H33RM109726",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/used/5e109d52fa46.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "HR-V",
       "condition": "used"
     },
     {
@@ -810,6 +813,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 Honda CR-V LX AWD",
+      "vin": "2HKRS4H20TH109645",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/6894c1493118.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new"
+    },
+    {
       "name": "2026 Honda Odyssey Touring",
       "vin": "5FNRL6H8XTB502158",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/cc27db1f73c7.html",
@@ -1035,36 +1047,9 @@
       "condition": "new"
     },
     {
-      "name": "2027 Honda CR-V Hybrid TOURING HYBRID",
-      "vin": "2HKRS6H91VH200449",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/24c172993e2c.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid SPORT HYBRID",
-      "vin": "2HKRS6H7XVH200433",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/87e9cc06c1b8.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new"
-    },
-    {
       "name": "2027 Honda CR-V Hybrid EX-L HYBRID",
       "vin": "2HKRS6H59VH200065",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/f3410c198e88.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid TOURING HYBRID",
-      "vin": "2HKRS6H93VH200873",
-      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/72a9c2161c13.html",
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
@@ -1206,6 +1191,15 @@
       "condition": "new"
     },
     {
+      "name": "2027 Honda CR-V SPORT",
+      "vin": "2HKRS4H51VH103396",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/5ead26ed6810.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new"
+    },
+    {
       "name": "2027 Honda HR-V SPORT",
       "vin": "3CZRZ2H56VM100420",
       "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/d653de8e0c2c.html",
@@ -1302,6 +1296,24 @@
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Honda Passport Trailsport Touring",
+      "vin": "5FNYF9H88VB500044",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/1ed303d213e4.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Honda Passport Trailsport Touring",
+      "vin": "5FNYF9H86VB500334",
+      "url": "https://willyml1979-dotcom.github.io/discovery-honda-mirror/new/d7cc884690f6.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
       "condition": "new"
     }
   ]
